@@ -41,8 +41,7 @@
 [<img align="left" alt="Laravel" width="50px" src="https://icons8.com/icon/hUvxmdu7Rloj/laravel" style="padding-right:10px;" />][webdev]
 [<img align="left" alt="SQL" width="50px" src="https://icons8.com/icon/qGUfLiYi1bRN/my-sql" style="padding-right:10px;" />][webdev]
 [<img align="left" alt="Figma" width="50px" src="https://icons8.com/icon/8gfeOoqrHqJU/figma" style="padding-right:10px;" />][webdev]
-rea
-[<img align="left" alt="Davinci width="50px" src="https://icons8.com/icon/UohrMT84a2p9/davinci-resolve" style="padding-right:10px;" />][webdev]
+[<img align="left" alt="Davinci" width="50px" src="https://icons8.com/icon/UohrMT84a2p9/davinci-resolve" style="padding-right:10px;" />][webdev]
 <br />
 <br />
 
