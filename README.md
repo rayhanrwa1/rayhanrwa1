@@ -33,16 +33,8 @@
 
 ### Bahasa dan Alat:
 
-[<img align="left" alt="SwiftUI" width="30px" src="https://iconscout.com/icons/swift" style="padding-right:10px;" />][webdev]
-[<img align="left" alt="Java" width="30px" src="https://icons8.com/icon/GPfHz0SM85FX/java" style="padding-right:10px;" />][webdev]
-[<img align="left" alt="JavaScript" width="30px" src="https://icons8.com/icon/GPfHz0SM85FX/java" style="padding-right:10px;" />][webdev]
-[<img align="left" alt="HTML" width="30px" src="https://icons8.com/icon/23027/html-5" style="padding-right:10px;" />][webdev]
-[<img align="left" alt="CSS" width="30px" src="https://icons8.com/icon/4800/css-filetype" style="padding-right:0px;" />][webdev]
-[<img align="left" alt="Laravel" width="50px" src="https://icons8.com/icon/hUvxmdu7Rloj/laravel" style="padding-right:10px;" />][webdev]
-[<img align="left" alt="SQL" width="50px" src="https://icons8.com/icon/qGUfLiYi1bRN/my-sql" style="padding-right:10px;" />][webdev]
-[<img align="left" alt="Figma" width="50px" src="https://icons8.com/icon/8gfeOoqrHqJU/figma" style="padding-right:10px;" />][webdev]
-[<img align="left" alt="Davinci" width="50px" src="https://icons8.com/icon/UohrMT84a2p9/davinci-resolve" style="padding-right:10px;" />][webdev]
-<a href="https://iconscout.com/icons/swift" class="text-underline font-size-sm" target="_blank">Swift</a> by <a href="https://iconscout.com/contributors/icon-mafia" class="text-underline font-size-sm" target="_blank">Icon Mafia</a>
+![Alt text](<SwiftUI README.md.png>)
+![Alt text](<SwiftUI README.md-2.png>)
 <br />
 <br />
 
@@ -55,21 +47,12 @@
 - Snack Horror (Landing Page)  
 - Math Class (Web Pembelajaran) 
 
+### Pengalaman Saya:
+- Pelatihan Google Digital Entrepreneurship Kelas Umum (DEA).
+- 1000 Startup Hack4ID Prov Jatim.
+- Panitia Workshop Peningkatan Kompetisi SDA Dalam Menangkal Ancaman Siber (BSSN RI).
+
 
 ### Hubungkan ke saya:
-
-[![website](./img/youtube-light.svg)](https://www.youtube.com/channel/UCpslqrFIrfEgq-gYzyK6uVw#gh-light-mode-onlyt)
-[![website](./img/youtube-dark.svg)](https://www.youtube.com/channel/UCpslqrFIrfEgq-gYzyK6uVw#gh-dark-mode-only)
-&nbsp;&nbsp;
-[![website](./img/twitter-light.svg)](https://twitter.com/rayhanrwa1#gh-light-mode-only)
-[![website](./img/twitter-dark.svg)](https://twitter.com/rayhanrwa1#gh-dark-mode-only)
-&nbsp;&nbsp;
-[![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/rayhan-rizky-widi-ananta-a30901255/#gh-light-mode-only)
-[![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/rayhan-rizky-widi-ananta-a30901255/#gh-dark-mode-only)
-&nbsp;&nbsp;
-[![website](./img/instagram-light.svg)](https://www.instagram.com/rayhanrwa/#gh-light-mode-only)
-[![website](./img/instagram-dark.svg)](https://www.instagram.com/rayhanrwa/#gh-dark-mode-only)
-
-
 
 [webdev]: https://github.com/rayhanrwa1
