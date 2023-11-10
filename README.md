@@ -8,14 +8,14 @@
 
 ## Pendidikan:
 
-#### 1. [Universitas Muhammadiyah Malang](https://www.umm.ac.id) | Sarjana Ilmu Komputer | Malang `2022-Saat ini`
+#### 1. [Universitas Muhammadiyah Malang](https://www.umm.ac.id) | Sarjana Ilmu Komputer | Malang `2022 - Saat ini`
    - Content Creator Informatika UMM
 
-#### 2. [MAN 2 Tangerang](http://man2kabtangerang.sch.id) | MIPA | Kebumen `2013-2016`
+#### 2. [MAN 2 Tangerang](http://man2kabtangerang.sch.id) | MIPA | Tangerang ` Juni 2019 - Juni 2022`
    - Broadcast Lensa MAN 2 Tangerang
 
 ## Pengalaman Kerja:
-#### 1. [Freelance Fotografer & Videografer](https://www.huawei.com) | Freelance | Tangerang `2019 - 2022`
+#### 1. [Freelance Fotografer & Videografer](https://rayhanrwa.com/REStudio/restudio.html) | Freelance | Tangerang `2019 - 2022`
    - Memahami teknik fotografi 
    - Memahami teknik videografi 
    - Memahami teknik editing :
@@ -26,14 +26,14 @@
          - Adobe Audition
          - Davinci Pro
          - Figma for UI
-#### 2. [Content Creator Informatika](https://portal.pln.co.id) | Magang Mahasiswa & Kontrak Kerja | Malang `2022-Saat ini`
+#### 2. [Content Creator Informatika](https://www.instagram.com/informatika.umm/) | Magang Mahasiswa & Kontrak Kerja | Malang `2022-Saat ini`
    - Membuat konten seputar informatika
    - Meliput agenda informatika
 ---
 
 ### Bahasa dan Alat:
 
-[<img align="left" alt="SwiftUI" width="30px" src="https://icons8.com/icon/beYUNPWBUGT1/swiftui" style="padding-right:10px;" />][webdev]
+[<img align="left" alt="SwiftUI" width="30px" src="https://iconscout.com/icons/swift" style="padding-right:10px;" />][webdev]
 [<img align="left" alt="Java" width="30px" src="https://icons8.com/icon/GPfHz0SM85FX/java" style="padding-right:10px;" />][webdev]
 [<img align="left" alt="JavaScript" width="30px" src="https://icons8.com/icon/GPfHz0SM85FX/java" style="padding-right:10px;" />][webdev]
 [<img align="left" alt="HTML" width="30px" src="https://icons8.com/icon/23027/html-5" style="padding-right:10px;" />][webdev]
@@ -42,6 +42,7 @@
 [<img align="left" alt="SQL" width="50px" src="https://icons8.com/icon/qGUfLiYi1bRN/my-sql" style="padding-right:10px;" />][webdev]
 [<img align="left" alt="Figma" width="50px" src="https://icons8.com/icon/8gfeOoqrHqJU/figma" style="padding-right:10px;" />][webdev]
 [<img align="left" alt="Davinci" width="50px" src="https://icons8.com/icon/UohrMT84a2p9/davinci-resolve" style="padding-right:10px;" />][webdev]
+<a href="https://iconscout.com/icons/swift" class="text-underline font-size-sm" target="_blank">Swift</a> by <a href="https://iconscout.com/contributors/icon-mafia" class="text-underline font-size-sm" target="_blank">Icon Mafia</a>
 <br />
 <br />
 
