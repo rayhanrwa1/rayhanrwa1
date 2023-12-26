@@ -8,8 +8,6 @@
 
 ## Pendidikan:
 
-#### 1. [Universitas Muhammadiyah Malang](https://www.umm.ac.id) | Sarjana Ilmu Komputer | Malang `2022 - Saat ini`
-   - Content Creator Informatika UMM
 
 #### 2. [MAN 2 Tangerang](http://man2kabtangerang.sch.id) | MIPA | Tangerang ` Juni 2019 - Juni 2022`
    - Broadcast Lensa MAN 2 Tangerang
