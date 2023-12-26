@@ -24,7 +24,7 @@
          - Adobe Audition
          - Davinci Pro
          - Figma for UI
-#### 2. [Content Creator Informatika](https://www.instagram.com/informatika.umm/) | Magang Mahasiswa & Kontrak Kerja | Malang `2022-Saat ini`
+#### 2.  | Magang Mahasiswa & Kontrak Kerja | `2022-Saat ini`
    - Membuat konten seputar informatika
    - Meliput agenda informatika
 ---
