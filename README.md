@@ -54,7 +54,7 @@
     <img src="https://img.shields.io/badge/Unity-000000.svg?style=for-the-badge&logo=unity&logoColor=white">
     <img src="https://img.shields.io/badge/Android Studio-3DDC84.svg?style=for-the-badge&logo=php&logoColor=white">
     <img src="https://img.shields.io/badge/PHP-777BB4.svg?style=for-the-badge&logo=androidstudio&logoColor=white">
-    <img src="https://img.shields.io/badge/PHP-3776AB.svg?style=for-the-badge&logo=python&logoColor=white">
+    <img src="https://img.shields.io/badge/Pyhton-3776AB.svg?style=for-the-badge&logo=python&logoColor=white">
 </p>
 
 ### Skill Media Kreatif:
