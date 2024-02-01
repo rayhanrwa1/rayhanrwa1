@@ -9,7 +9,7 @@ As a Software Engineer specializing in web and mobile development, I am enthusia
 #### 2. [MAN 2 Tangerang](http://man2kabtangerang.sch.id) | Science | Tangerang `June 2019 - June 2022`
 
 ## Work Experience:
-#### 1. [Freelance Photographer & Videographer](https://rayhanrwa1.github.io/rayhanrwa/) | Freelance | Tangerang `2019 - 2022`
+#### 1. [Freelance Photographer & Videographer]() | Freelance | Tangerang `2019 - 2022`
    - Photography: Weddings, Clubs, Sports, Portraits, Landscapes, Graduations, Yearbooks, Models.
    - Videography: Weddings, Official Music Videos, Cover Videos, Cinematic Videos.
    - Photo Editing [Lightroom, Photoshop]
@@ -17,14 +17,20 @@ As a Software Engineer specializing in web and mobile development, I am enthusia
    - Poster Editing [Adobe Illustrator, Adobe Photoshop, Canva, Figma]
 
 
-#### 2. [Student Internship & Contract Work](https://www.instagram.com/informatika.umm/) | `May 2023 - Present`
+#### 2. [Student Internship & Contract Work]() | `May 2023 - Present`
    - Creating content related to informatics.
    - Covering informatics events.
 
-#### 3. [Web | Mobile Developer | UI/UX Designer](https://rayhanrwa1.github.io/rayhanrwa/) | Freelance | Malang `2022 - Currently`
+#### 3. [Web | Mobile Developer | UI/UX Designer]() | Freelance | Malang `2022 - Currently`
    - Web Developer
    - Mobile Developer
    - UI/UX Designer
+
+
+#### 4. [Chief Operating Officer](https://academysherpa.com/) | Academy Sherpa| Malang `2024 - Present`
+   - Web Developer
+   - Plan operational strategy
+   - Oversee the operations of the CMO and CTO
 
 ## Team Experience:
 #### 1. [Student Activity Unit Football | Creative Media Division] | `October 2022 - June 2023`
@@ -72,6 +78,7 @@ As a Software Engineer specializing in web and mobile development, I am enthusia
 - Informatics Welcoming Week
 - Snack Horror (Landing Page)
 - Math Class (Math Learning Web)
+- MI Darul Ulum Kota Batu (Landing Page)
 
 ### My Experiences:
 
