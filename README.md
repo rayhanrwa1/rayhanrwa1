@@ -1,7 +1,11 @@
   
   # Hi everyone, I'm Rayhan Rizky Widi Ananta (rayhanrwa).
 
-As a Software Engineer specializing in web and mobile development, I am enthusiastic about crafting innovative and user-friendly solutions to address real-world challenges. Currently, I am pursuing my Bachelor's degree (S.Kom) in Informatics Engineering at Universitas Muhammadiyah Malang, where I have refined my skills in web development, software development, and UI/UX design. Aside from my technical pursuits, I am also a semi-professional photographer, videographer, and video editor. I derive great satisfaction from bringing ideas and art to life.
+As a Software Engineer focusing on web and mobile development, I am passionate about creating innovative and user-friendly solutions to real challenges. Currently, I am pursuing a Bachelor's degree (S.Kom) in Informatics Engineering at Universitas Muhammadiyah Malang, while honing my skills in web development, software, and UI/UX design. In addition, I am also a semi-professional photographer, videographer, and video editor.
+
+During my academic and professional journey, I have worked on various projects that showcase my abilities and creativity. One of the key projects was the development of a web application for a programming language learning e-learning platform, which helps users learn to code. I also developed several responsive websites for local businesses with modern UI/UX design to improve user experience.
+
+In my career, I aspire to continue developing as an innovative and influential Software Engineer. I want to contribute to impactful projects, both small and large scale, with a focus on user-friendly and sustainable solutions. I also plan to continue improving my technical skills and pursue professional certifications to stay at the forefront of the latest technologies.
 
 ## Education:
 #### 1. [UNIVERSITAS MUHAMMADIYAH MALANG](https://www.umm.ac.id) | Informatics | Malang `September 2022 - Present`
@@ -17,7 +21,7 @@ As a Software Engineer specializing in web and mobile development, I am enthusia
    - Poster Editing [Adobe Illustrator, Adobe Photoshop, Canva, Figma]
 
 
-#### 2. [Student Internship & Contract Work]() | `May 2023 - Present`
+#### 2. [Student Internship & Contract Work]() | `May 2023 - Feb 2024`
    - Creating content related to informatics.
    - Covering informatics events.
 
@@ -27,7 +31,7 @@ As a Software Engineer specializing in web and mobile development, I am enthusia
    - UI/UX Designer
 
 
-#### 4. [Chief Operating Officer](https://academysherpa.com/) | Academy Sherpa| Malang `2024 - Present`
+#### 4. [Full-Stack Developer](https://academysherpa.com/) | Academy Sherpa| Malang `Feb - Mei 2024`
    - Web Developer
    - Plan operational strategy
    - Oversee the operations of the CMO and CTO
@@ -49,12 +53,9 @@ As a Software Engineer specializing in web and mobile development, I am enthusia
     <img src="https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white">
     <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white">
     <img src="https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white">
-    <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white">
     <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white">
     <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E">
-    <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white">
     <img src="https://img.shields.io/badge/Xcode-007ACC?style=for-the-badge&logo=Xcode&logoColor=white">
-    <img src="https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white">
     <img src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white">
     <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB">
     <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white">
@@ -79,11 +80,13 @@ As a Software Engineer specializing in web and mobile development, I am enthusia
 - Snack Horror (Landing Page)
 - Math Class (Math Learning Web)
 - MI Darul Ulum Kota Batu (Landing Page)
+- Sherpa Academy
 
 ### My Experiences:
 
 - 3rd International Conference on Technology, Informatics, and Engineering (Icon-TINE 2023) | [Creative Media Team].
 - Google Digital Entrepreneurship General Class (DEA) Training.
+- Informatics Welcoming Week
 - 1000 Startup Hack4ID East Java.
 - Committee for the Workshop on Enhancing SDA Competition in Countering Cyber Threats (BSSN RI).
 
