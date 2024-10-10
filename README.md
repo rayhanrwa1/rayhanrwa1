@@ -12,7 +12,7 @@ In my career, I aspire to continue developing as an innovative and influential S
 
 #### 2. [MAN 2 Tangerang](http://man2kabtangerang.sch.id) | Science | Tangerang `June 2019 - June 2022`
 
-## Work Experience:
+<!-- ## Work Experience:
 #### 1. [Freelance Photographer & Videographer]() | Freelance | Tangerang `2019 - 2022`
    - Photography: Weddings, Clubs, Sports, Portraits, Landscapes, Graduations, Yearbooks, Models.
    - Videography: Weddings, Official Music Videos, Cover Videos, Cinematic Videos.
@@ -36,17 +36,17 @@ In my career, I aspire to continue developing as an innovative and influential S
    - Plan operational strategy
    - Oversee the operations of the CMO and CTO
 
-## Team Experience:
-#### 1. [Student Activity Unit Football | Creative Media Division] | `October 2022 - June 2023`
+## Team Experience: -->
+<!-- #### 1. [Student Activity Unit Football | Creative Media Division] | `October 2022 - June 2023`
    - Creating content for Rector Cup 2023 (Football).
    - Producing Cinematic Videos.
    - Managing Instagram Feeds.
 
 #### 2. [Member of Google Developer Student Club] | `December 2023 - Present`
    - Learning Android Studio.
-   - Learning Kotlin.
+   - Learning Kotlin. -->
 
-### Languages & Tools:
+<!-- ### Languages & Tools:
 
 <p>
     <img src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white">
@@ -71,9 +71,9 @@ In my career, I aspire to continue developing as an innovative and influential S
    <img src="https://img.shields.io/badge/Adobe After Effect-9999FF?style=for-the-badge&logo=Adobe After Effects&logoColor=white">
    <img src="https://img.shields.io/badge/Adobe Premiere Pro-9999FF?style=for-the-badge&logo=adobepremierepro&logoColor=white">
    <img src="https://img.shields.io/badge/Adobe Illustrator-F24E1E?style=for-the-badge&logo=figma&logoColor=white">
-</p>
+</p> -->
 
-### My Projects:
+<!-- ### My Projects:
 
 - 3rd International Conference on Technology, Informatics, and Engineering (Icon-TINE 2023)
 - Informatics Welcoming Week
@@ -88,7 +88,7 @@ In my career, I aspire to continue developing as an innovative and influential S
 - Google Digital Entrepreneurship General Class (DEA) Training.
 - Informatics Welcoming Week
 - 1000 Startup Hack4ID East Java.
-- Committee for the Workshop on Enhancing SDA Competition in Countering Cyber Threats (BSSN RI).
+- Committee for the Workshop on Enhancing SDA Competition in Countering Cyber Threats (BSSN RI). -->
 
 ### Connect with Me:
 
