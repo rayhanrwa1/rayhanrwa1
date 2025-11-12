@@ -1,97 +1,93 @@
-  
-  # Hi everyone, I'm Rayhan Rizky Widi Ananta (rayhanrwa).
+<br clear="both">
 
-As a Software Engineer focusing on web and mobile development, I am passionate about creating innovative and user-friendly solutions to real challenges. Currently, I am pursuing a Bachelor's degree (S.Kom) in Informatics Engineering at Universitas Muhammadiyah Malang, while honing my skills in web development, software, and UI/UX design. In addition, I am also a semi-professional photographer, videographer, and video editor.
+<img align="right" height="400" src="https://images.squarespace-cdn.com/content/v1/5769fc401b631bab1addb2ab/1541580611624-TE64QGKRJG8SWAIUS7NS/coding-freak.gif"  />
 
-During my academic and professional journey, I have worked on various projects that showcase my abilities and creativity. One of the key projects was the development of a web application for a programming language learning e-learning platform, which helps users learn to code. I also developed several responsive websites for local businesses with modern UI/UX design to improve user experience.
+###
 
-In my career, I aspire to continue developing as an innovative and influential Software Engineer. I want to contribute to impactful projects, both small and large scale, with a focus on user-friendly and sustainable solutions. I also plan to continue improving my technical skills and pursue professional certifications to stay at the forefront of the latest technologies.
+<h3 align="left">👋 Hi, I’m rayhanrwa</h3>
 
-## Education:
-#### 1. [UNIVERSITAS MUHAMMADIYAH MALANG](https://www.umm.ac.id) | Informatics | Malang `September 2022 - Present`
+###
 
-#### 2. [MAN 2 Tangerang](http://man2kabtangerang.sch.id) | Science | Tangerang `June 2019 - June 2022`
+<p align="left">A passionate application and AI developer from Indonesia, focusing on Flutter, real-time communication, data science, and future technologies.</p>
 
-<!-- ## Work Experience:
-#### 1. [Freelance Photographer & Videographer]() | Freelance | Tangerang `2019 - 2022`
-   - Photography: Weddings, Clubs, Sports, Portraits, Landscapes, Graduations, Yearbooks, Models.
-   - Videography: Weddings, Official Music Videos, Cover Videos, Cinematic Videos.
-   - Photo Editing [Lightroom, Photoshop]
-   - Video Editing [Adobe PR, AE, DaVinci Studio, Capcut, VN, Adobe Audition]
-   - Poster Editing [Adobe Illustrator, Adobe Photoshop, Canva, Figma]
+###
 
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-line-wordmark.svg" height="40" alt="amazonwebservices logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" height="40" alt="androidstudio logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" height="40" alt="apache logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="40" alt="azure logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="40" alt="arduino logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apple/apple-original.svg" height="40" alt="apple logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="40" alt="bash logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" height="40" alt="android logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/clion/clion-original.svg" height="40" alt="clion logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cmake/cmake-original.svg" height="40" alt="cmake logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/composer/composer-original.svg" height="40" alt="composer logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/d3js/d3js-original.svg" height="40" alt="d3js logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="40" alt="dart logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/datagrip/datagrip-original.svg" height="40" alt="datagrip logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="40" alt="django logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="40" alt="flutter logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" height="40" alt="gitlab logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="40" alt="googlecloud logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gradle/gradle-original.svg" height="40" alt="gradle logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" height="40" alt="jira logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kaggle/kaggle-original.svg" height="40" alt="kaggle logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" height="40" alt="kotlin logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" height="40" alt="laravel logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" height="40" alt="materialui logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" height="40" alt="nginx logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="40" alt="npm logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="40" alt="tensorflow logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" height="40" alt="unity logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xcode/xcode-original.svg" height="40" alt="xcode logo"  />
+</div>
 
-#### 2. [Student Internship & Contract Work]() | `May 2023 - Feb 2024`
-   - Creating content related to informatics.
-   - Covering informatics events.
+###
 
-#### 3. [Web | Mobile Developer | UI/UX Designer]() | Freelance | Malang `2022 - Currently`
-   - Web Developer
-   - Mobile Developer
-   - UI/UX Designer
+<br clear="both">
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rayhanrwa1/rayhanrwa1/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/rayhanrwa1/rayhanrwa1/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/rayhanrwa1/rayhanrwa1/output/pacman-contribution-graph.svg">
+</picture>
 
-#### 4. [Full-Stack Developer](https://academysherpa.com/) | Academy Sherpa| Malang `Feb - Mei 2024`
-   - Web Developer
-   - Plan operational strategy
-   - Oversee the operations of the CMO and CTO
-
-## Team Experience: -->
-<!-- #### 1. [Student Activity Unit Football | Creative Media Division] | `October 2022 - June 2023`
-   - Creating content for Rector Cup 2023 (Football).
-   - Producing Cinematic Videos.
-   - Managing Instagram Feeds.
-
-#### 2. [Member of Google Developer Student Club] | `December 2023 - Present`
-   - Learning Android Studio.
-   - Learning Kotlin. -->
-
-<!-- ### Languages & Tools:
-
-<p>
-    <img src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white">
-    <img src="https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white">
-    <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white">
-    <img src="https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white">
-    <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white">
-    <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E">
-    <img src="https://img.shields.io/badge/Xcode-007ACC?style=for-the-badge&logo=Xcode&logoColor=white">
-    <img src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white">
-    <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB">
-    <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white">
-    <img src="https://img.shields.io/badge/My SQL-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white">
-    <img src="https://img.shields.io/badge/C++-00599C.svg?style=for-the-badge&logo=cplusplus&logoColor=white">
-    <img src="https://img.shields.io/badge/C-A8B9CC.svg?style=for-the-badge&logo=c&logoColor=white">
-    <img src="https://img.shields.io/badge/Unity-000000.svg?style=for-the-badge&logo=unity&logoColor=white">
-    <img src="https://img.shields.io/badge/Android Studio-3DDC84.svg?style=for-the-badge&logo=php&logoColor=white">
-    <img src="https://img.shields.io/badge/PHP-777BB4.svg?style=for-the-badge&logo=androidstudio&logoColor=white">
-    <img src="https://img.shields.io/badge/Pyhton-3776AB.svg?style=for-the-badge&logo=python&logoColor=white">
-    <img src="https://img.shields.io/badge/Adobe Photoshop-31A8FF?style=for-the-badge&logo=adobe-photoshop&logoColor=white">
-   <img src="https://img.shields.io/badge/Adobe Lightroom-31A8FF?style=for-the-badge&logo=adobe-lightroom&logoColor=white">
-   <img src="https://img.shields.io/badge/Adobe After Effect-9999FF?style=for-the-badge&logo=Adobe After Effects&logoColor=white">
-   <img src="https://img.shields.io/badge/Adobe Premiere Pro-9999FF?style=for-the-badge&logo=adobepremierepro&logoColor=white">
-   <img src="https://img.shields.io/badge/Adobe Illustrator-F24E1E?style=for-the-badge&logo=figma&logoColor=white">
-</p> -->
-
-<!-- ### My Projects:
-
-- 3rd International Conference on Technology, Informatics, and Engineering (Icon-TINE 2023)
-- Informatics Welcoming Week
-- Snack Horror (Landing Page)
-- Math Class (Math Learning Web)
-- MI Darul Ulum Kota Batu (Landing Page)
-- Sherpa Academy
-
-### My Experiences:
-
-- 3rd International Conference on Technology, Informatics, and Engineering (Icon-TINE 2023) | [Creative Media Team].
-- Google Digital Entrepreneurship General Class (DEA) Training.
-- Informatics Welcoming Week
-- 1000 Startup Hack4ID East Java.
-- Committee for the Workshop on Enhancing SDA Competition in Countering Cyber Threats (BSSN RI). -->
-
-### Connect with Me:
-
-<a href="https://www.linkedin.com/in/rayhan-rizky-widi-ananta-a30901255/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="https://discordapp.com/users/584410530874130438" target="_blank"><img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white"></a>
-<a href="https://www.instagram.com/rayhanxyx/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white"></a>
+###
