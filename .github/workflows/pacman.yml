@@ -1,0 +1,32 @@
+name: Generate Pacman Contribution Graph
+
+on:
+  schedule:
+    - cron: "0 0 * * *" # generate tiap hari jam 00:00 UTC
+  workflow_dispatch: # bisa run manual dari GitHub Actions
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    permissions:
+      contents: write # WAJIB: biar bisa push hasil SVG ke repo
+
+    steps:
+      - uses: actions/checkout@v3
+
+      - name: Generate the graph
+        uses: Platane/snk@v3
+        with:
+          github_user_name: rayhanrwa1
+          outputs: |
+            ./output/pacman-contribution-graph.svg
+            ./output/pacman-contribution-graph-dark.svg
+
+      - name: Push to the output branch
+        run: |
+          git config user.name "github-actions"
+          git config user.email "github-actions@github.com"
+          git add output/
+          git commit -m "update pacman graph" || echo "no changes"
+          git push
