@@ -24,24 +24,6 @@
 
 ---
 
-## 📊 Stats & Languages
-
-<div style="display: flex; gap: 20px; flex-wrap: wrap; justify-content: flex-start;">
-
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=rayhanrwa1&locale=en&hide_title=true&layout=compact&card_width=330&langs_count=6&theme=dracula&hide_border=false" 
-    height="150"
-  />
-
-  <img 
-    src="https://streak-stats.demolab.com?user=rayhanrwa1&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&date_format=%5BY%20%5DM%20j" 
-    height="150"
-  />
-
-</div>
-
----
-
 ## 🧰 Tech Stack
 
 <div align="left">
